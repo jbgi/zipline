@@ -78,7 +78,7 @@
     "react-dom": "^19.1.0",
     "react-markdown": "^10.1.0",
     "remark-gfm": "^4.0.1",
-    "sharp": "^0.34.2",
+    "sharp": "git://github.com/jbgi/sharp.git#af4679adeb8a5729887c2b2ca80eab7d14dd8f60",
     "swr": "^2.3.3",
     "zod": "^3.25.51",
     "zustand": "^5.0.5"
